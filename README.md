@@ -38,7 +38,7 @@ const thanhTrung = {
 };
 ```
 
-<br>
+
 
 💡 **What I Do:**
 -  Design & develop **high-performance RESTful APIs**
@@ -47,7 +47,7 @@ const thanhTrung = {
 -  Implement secure **authentication & authorization** systems
 -  Focus on **clean architecture** and **maintainable code**
 
-<br>
+
 
 ## Currently Working On
 
@@ -56,7 +56,7 @@ const thanhTrung = {
 -  Optimizing API performance with **Redis caching**
 -  Writing comprehensive **API tests** with PHPUnit
 
-<br>
+
 
 ## Tech Stack
 
@@ -68,7 +68,7 @@ const thanhTrung = {
   <img src="https://skillicons.dev/icons?i=js,ts,git,github,docker,postman,bootstrap" />
 </p>
 
-<br>
+
 
 ## GitHub Analytics
 
@@ -85,7 +85,7 @@ const thanhTrung = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trung-thanh111&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=58a6ff" alt="Contribution Graph" />
 </p>
 
-<br>
+
 
 ## Core Competencies
 
@@ -93,12 +93,12 @@ const thanhTrung = {
 
 | **Backend Development** | **Database & Caching** | **Security & Auth** | **Architecture** |
 |---|---|---|---|
-| RESTful API<br>Laravel<br>PHP Best Practices<br>Error Handling | MySQL Optimization<br>Indexing<br>Redis | JWT<br>OAuth 2.0<br>CORS | MVC Pattern<br>Clean Architecture<br>Service Layer |
+| RESTful APILaravelPHP Best PracticesError Handling | MySQL OptimizationIndexingRedis | JWTOAuth 2.0CORS | MVC PatternClean ArchitectureService Layer |
 
 
 </div>
 
-<br>
+
 
 ## Highlights
 
@@ -108,7 +108,7 @@ const thanhTrung = {
 -  Implemented secure authentication for **1000+** daily users
 -  Continuously learning and applying **clean code principles**
 
-<br>
+
 
 ## Development Philosophy
 
@@ -138,7 +138,7 @@ class CleanCode
 }
 ```
 
-<br>
+
 
 ## Let's Connect
 
@@ -151,7 +151,7 @@ class CleanCode
 
 </div>
 
-<br>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
