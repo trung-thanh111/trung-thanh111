@@ -12,97 +12,74 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Focus
 
-- 🎯 **Backend Developer (PHP / Laravel)**
-- 🔭 Focus on **RESTful API, Database Optimization, E-commerce Systems**
-- 💡 Interested in **Scalable Systems & Microservices**
-- 📍 Ho Chi Minh City, Vietnam
+- Backend Development
+- RESTful API
+- Database Optimization
+- E-commerce Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Languages
 
-### 🔙 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" />
-</p>
-
-### 🎨 Frontend (Working Knowledge)
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind,bootstrap,html,css" />
-</p>
-
-### ⚙️ Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,wordpress" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Backend Stack
 
-### 🛒 Techmart – E-commerce System
-> Full-stack E-commerce with Admin Panel & REST API
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,redis" />
+</p>
 
-- Backend: **Laravel 11, MySQL, Redis, JWT**
-- Frontend: **Nuxt 4, TypeScript, TailwindCSS**
-- Features:
-  - Auth & Role Management
-  - Product / Category / Order Management
-  - Revenue Dashboard
-  - SEO Optimization
-
-🔗 **Repo:** https://github.com/trung-thanh111
+- Laravel 10 / 11
+- REST API · JWT
+- OOP · MVC · Design Patterns
+- Query Optimization · Cache · Queue
 
 ---
 
-### 👕 Beecloudy Fashion (Team Project)
-> Online fashion e-commerce website
+## 🎨 Frontend (Supporting)
 
-- Role: **Backend Developer**
-- Tech: Laravel, MySQL, VueJS
-- Payment: **VNPay, Momo**
-
-🔗 **Repo:** https://github.com/trung-thanh111/bee-cloudy
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,html,css" />
+</p>
 
 ---
 
-### 📱 BeanPhone Technology (Personal Project)
-> Technology products e-commerce website
+## ⚙️ Tools
 
-- Laravel-based system
-- Product, Cart, Order Management
-
-🔗 **Repo:** https://github.com/trung-thanh111/bean-phone
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+</p>
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-**Backend Developer Intern – JAMstack Vietnam**  
-*(12/2024 – 05/2025)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trung-thanh111&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-- Develop & optimize Laravel REST APIs
-- Optimize MySQL queries (~50k records)
-- Collaborate with frontend & QA teams
-- Work on real business systems
-
----
-
-## 🎓 Education
-
-**FPT Polytechnic**  
-Information Technology – Backend Developer  
-GPA: **3.5**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung-thanh111&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contact
+## 🔥 Activity
 
-- 📧 Email: trungptdev2004@gmail.com
-- 🌐 GitHub: https://github.com/trung-thanh111
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trung-thanh111&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+## 📌 Repositories
+
+➡️ Check **Pinned Repositories** below for real-world Laravel & Nuxt projects.
+
+
