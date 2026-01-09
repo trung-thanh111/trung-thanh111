@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Header với Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Thanh+Trung;Backend+Developer+%7C+PHP+%E2%80%A2+Laravel+Expert;Building+Scalable+APIs+%26+E-commerce+Systems" alt="Typing SVG" />
 
-<!-- Social Badges với hiệu ứng đẹp hơn -->
 <p>
   <a href="mailto:trungptdev2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-trungptdev2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,14 +14,13 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=trung-thanh111&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const thanhTrung = {
@@ -49,118 +46,56 @@ const thanhTrung = {
 - 🔐 Implement secure **authentication & authorization** systems
 - 🚀 Focus on **clean architecture** and **maintainable code**
 
----
 
-## 💼 Currently Working On
+## Currently Working On
 
 - 🏗️ Building a **multi-vendor e-commerce platform** with Laravel 11
 - 🔄 Implementing **real-time order tracking** system
 - 📈 Optimizing API performance with **Redis caching**
 - 🧪 Writing comprehensive **API tests** with PHPUnit
 
----
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt" />
-        <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-    </td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
+## Tech Stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trung-thanh111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung-thanh111&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,vue,nuxt,tailwind" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trung-thanh111&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=js,ts,git,github,docker,postman,bootstrap" />
 </p>
 
-<!-- Contribution Graph -->
+
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trung-thanh111&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trung-thanh111&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung-thanh111&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trung-thanh111&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</p>
 
-## 🎯 Core Competencies
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trung-thanh111&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=58a6ff" alt="Contribution Graph" />
+</p>
+
+
+## Core Competencies
 
 <div align="center">
 
-| Backend Development | Database & Caching | Security & Auth | Architecture |
-|:---:|:---:|:---:|:---:|
-| RESTful API Design | MySQL Optimization | JWT Authentication | MVC Pattern |
-| Laravel Framework | Query Performance | OAuth 2.0 | Clean Architecture |
-| PHP Best Practices | Redis Implementation | API Security | Design Patterns |
-| Error Handling | Database Indexing | CORS & Middleware | Service Layer |
+| **Backend Development** | **Database & Caching** | **Security & Auth** | **Architecture** |
+|---|---|---|---|
+| RESTful API<br>Laravel<br>PHP Best Practices<br>Error Handling | MySQL Optimization<br>Indexing<br>Redis | JWT<br>OAuth 2.0<br>CORS | MVC Pattern<br>Clean Architecture<br>Service Layer |
+
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - 🔥 **500+** commits in the last year
 - 📦 Built **5+ production-ready** Laravel projects
@@ -170,7 +105,7 @@ const thanhTrung = {
 
 ---
 
-## 💭 Development Philosophy
+## Development Philosophy
 
 ```php
 <?php
@@ -200,7 +135,7 @@ class CleanCode
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
